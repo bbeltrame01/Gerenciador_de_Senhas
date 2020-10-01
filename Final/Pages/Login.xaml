@@ -1,0 +1,14 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="Final.Pages.Login">
+    <ContentPage.Content>
+        <StackLayout Margin="25,0,25,25" VerticalOptions="Center">
+            
+            <Image Source="key.png" HeightRequest="170" />
+            <Label Text="Senha:" FontSize="Large" VerticalOptions="Start" />
+            <Entry x:Name="txSenha" PlaceholderColor="#bababa" FontSize="16" TextChanged="txSenha_TextChanged" IsPassword="True" Keyboard="Numeric"/>
+
+        </StackLayout>
+    </ContentPage.Content>
+</ContentPage>

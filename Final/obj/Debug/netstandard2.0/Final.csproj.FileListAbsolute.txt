@@ -1,0 +1,16 @@
+C:\Users\bruno\source\repos\Final\Final\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\Users\bruno\source\repos\Final\Final\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+C:\Users\bruno\source\repos\Final\Final\obj\Debug\netstandard2.0\Pages\Cadastro.xaml.g.cs
+C:\Users\bruno\source\repos\Final\Final\obj\Debug\netstandard2.0\Final.AssemblyInfoInputs.cache
+C:\Users\bruno\source\repos\Final\Final\obj\Debug\netstandard2.0\Final.AssemblyInfo.cs
+C:\Users\bruno\source\repos\Final\Final\obj\Debug\netstandard2.0\Final.dll
+C:\Users\bruno\source\repos\Final\Final\obj\Debug\netstandard2.0\ref\Final.dll
+C:\Users\bruno\source\repos\Final\Final\obj\Debug\netstandard2.0\Final.pdb
+C:\Users\bruno\source\repos\Final\Final\bin\Debug\netstandard2.0\Final.deps.json
+C:\Users\bruno\source\repos\Final\Final\bin\Debug\netstandard2.0\Final.dll
+C:\Users\bruno\source\repos\Final\Final\bin\Debug\netstandard2.0\ref\Final.dll
+C:\Users\bruno\source\repos\Final\Final\bin\Debug\netstandard2.0\Final.pdb
+C:\Users\bruno\source\repos\Final\Final\obj\Debug\netstandard2.0\Final.csprojAssemblyReference.cache
+C:\Users\bruno\source\repos\Final\Final\obj\Debug\netstandard2.0\Pages\Login.xaml.g.cs
+C:\Users\bruno\source\repos\Final\Final\obj\Debug\netstandard2.0\Final.csproj.CoreCompileInputs.cache
+C:\Users\bruno\source\repos\Final\Final\obj\Debug\netstandard2.0\XamlC.stamp

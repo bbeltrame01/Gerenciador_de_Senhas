@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="Final.MainPage">
+
+    <StackLayout Margin="25,25,25,25">
+        <Label Text="Gerenciador de Senhas" HorizontalOptions="Center" FontSize="Large" />
+
+        <ListView x:Name="lstSenhas" ItemSelected="lstSenhas_ItemSelected" />
+
+        <StackLayout Orientation="Horizontal" HorizontalOptions="Center">
+            <Button x:Name="btIncluir" Clicked="btIncluir_Clicked" Text="Incluir" CornerRadius="15" FontSize="20" WidthRequest="110" IsEnabled="true"/>
+            <Button x:Name="btEditar"  Clicked="btEditar_Clicked"  Text="Editar"  CornerRadius="15" FontSize="20" WidthRequest="110" IsEnabled="false"/>
+            <Button x:Name="btExcluir" Clicked="btExcluir_Clicked" Text="Excluir" CornerRadius="15" FontSize="20" WidthRequest="110" IsEnabled="false"/>
+        </StackLayout>
+
+    </StackLayout>
+
+</ContentPage>
