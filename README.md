@@ -16,7 +16,9 @@ Para Compilar o sistema é necessária a instalação dos seguintes pacotes no V
 
 ## Screenshots
 
-![Conversor](Final/img/login.jpg)(Final/img/home.jpg)(Final/img/register.jpg)
+Login                    | Página Inicial          | Cadastro
+:-----------------------:|:-----------------------:|:--------------------------:
+![](Final/img/login.jpg) | ![](Final/img/home.jpg) | ![](Final/img/register.jpg)
 
 ## Autor
 
